@@ -1,0 +1,2 @@
+# gladXIRPLB-
+Membuat repo pertama
